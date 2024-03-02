@@ -43,7 +43,7 @@ This repository contains a Lambda function tailored for cost optimization within
  ![MicrosoftTeams-image (9)](https://github.com/aclockworkobi9/EBS_Snapshot_cost_optimization/assets/146419037/38fa6686-bd7f-4ec0-aa18-6c0a2973d4b5)
  ![MicrosoftTeams-image (10)](https://github.com/aclockworkobi9/EBS_Snapshot_cost_optimization/assets/146419037/fd8364c0-783c-4497-ae0e-bea2831a148c)
 
-7. **Cost Optimization**:
+6. **Cost Optimization**:
 - Now to test, delete instance, it will automatically remove associated volumes. Now trigger function, it will delete unassociated snapshots, minimizing costs by eliminating unnecessary expenses.
   
  <img width="538" alt="MicrosoftTeams-image (11)" src="https://github.com/aclockworkobi9/EBS_Snapshot_cost_optimization/assets/146419037/b9129679-8b52-4323-8edd-953ebec5520f">
@@ -55,7 +55,7 @@ This repository contains a Lambda function tailored for cost optimization within
 
 
 
-9. **Automation**:
+7. **Automation**:
 - Support the scheduling through CloudWatch and Amazon EventBridge for hands-free execution.
      
  <img width="786" alt="MicrosoftTeams-image (16)" src="https://github.com/aclockworkobi9/EBS_Snapshot_cost_optimization/assets/146419037/d170bb0e-4ee7-4299-9fc0-c2702d325c38">
